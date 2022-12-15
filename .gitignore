@@ -1,3 +1,5 @@
+.DS_Store
+
 # compiled output
 notification-service/dist
 notification-service/node_modules
