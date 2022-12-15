@@ -1,0 +1,35 @@
+# compiled output
+notification-service/dist
+notification-service/node_modules
+
+# Logs
+notification-service/logs
+notification-service/*.log
+notification-service/npm-debug.log*
+notification-service/pnpm-debug.log*
+notification-service/yarn-debug.log*
+notification-service/yarn-error.log*
+notification-service/lerna-debug.log*
+
+# OS
+notification-service/.DS_Store
+
+# Tests
+notification-service/coverage
+notification-service/.nyc_output
+
+# IDEs and editors
+notification-service/.idea
+notification-service/.project
+notification-service/.classpath
+notification-service/.c9/
+notification-service/*.launch
+notification-service/.settings/
+notification-service/*.sublime-workspace
+
+# IDE - VSCode
+notification-service/.vscode/*
+notification-service/!.vscode/settings.json
+notification-service/!.vscode/tasks.json
+notification-service/!.vscode/launch.json
+notification-service/!.vscode/extensions.json
